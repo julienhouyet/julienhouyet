@@ -8,7 +8,7 @@ I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, R
 
 ## Langages
 
-(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg) ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
 ## Backend
 
