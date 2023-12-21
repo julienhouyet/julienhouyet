@@ -8,7 +8,7 @@ I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, R
 
 ### Langages
 
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+[![My Langages](https://skillicons.dev/icons?i=bash,c,php,javascript)](https://skillicons.dev)
 
 ### Backend
 
