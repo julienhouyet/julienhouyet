@@ -1,20 +1,18 @@
-### I’m Julien Houyet, Senior Full-Stack Developer. 🥷🏻
+## I’m Julien Houyet, Senior Full-Stack Developer. 🥷🏻
 
 Young web enthusiast, I started learning HTML/CSS/PHP at the age of 11. It was only natural for me to turn it into my profession later on. I began working as a student in the field in 2010 and have made it my main occupation since 2012. Being self-taught, I enjoy constantly educating myself on new web technologies. 
 
 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, Ruby, Javascript ...
 
-### Skills
+## Skills
 
-## Langages
+### Langages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35">
+### Backend
 
-## Backend
+### Frontend
 
-## Frontend
-
-## Tools/Others
+### Tools/Others
 
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
