@@ -4,6 +4,8 @@ Young web enthusiast, I started learning HTML/CSS/PHP at the age of 11. It was o
 
 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, Ruby, Javascript ...
 
+More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
+
 ## Skills
 
 ### Langages
