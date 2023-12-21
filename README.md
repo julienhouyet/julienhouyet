@@ -12,6 +12,8 @@ I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, R
 
 ### Backend
 
+[![My Langages](https://skillicons.dev/icons?i=symfony,mysql,docker)](https://skillicons.dev)
+
 ### Frontend
 
 ### Tools/Others
