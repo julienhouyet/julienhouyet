@@ -16,7 +16,7 @@ I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, R
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass)](https://skillicons.dev)
 
 ### Tools/Others
 
