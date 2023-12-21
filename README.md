@@ -20,6 +20,8 @@ I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, R
 
 ### Tools/Others
 
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,wordpress)](https://skillicons.dev)
+
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
