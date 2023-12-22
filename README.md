@@ -30,6 +30,8 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 [![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,vim,vscode,wordpress)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=julienhouyet&style=flat-square&color=gray)
+
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
