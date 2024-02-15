@@ -28,7 +28,7 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 ### Tools/Others
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,gitlab,vim,vscode,wordpress)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,githubactions,gitlab,vim,vscode,wordpress)](https://skillicons.dev)
 
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
