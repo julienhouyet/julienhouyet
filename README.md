@@ -24,11 +24,11 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass)](https://skillicons.dev)
 
 ### Tools/Others
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,githubactions,gitlab,vim,vscode,wordpress)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,githubactions,vim)](https://skillicons.dev)
 
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
