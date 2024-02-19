@@ -5,8 +5,7 @@ Young web enthusiast, I started learning HTML/CSS/PHP at the age of 11. It was o
 My Curriculum :
 
 - 💻 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, Python, Ruby, ...
-- 🏢 2022/2023 - Full-Stack Developer @ Beprosoft Venture SRL
-- 🦁 2019/2022 - Co-Founder & IT Manager @ Catlion SRL
+- 🦁 2019/2023 - Co-Founder & IT Manager @ Catlion SRL
 - 🐺 2018/2022 - Founder & IT Manager @ Wolf's App SCRL
 - 🏢 2010/2018 - Full-Stack Developer & Project Manager @ JNS Concept SPRL
 
