@@ -15,7 +15,7 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 ### Langages
 
-[![My Langages](https://skillicons.dev/icons?i=bash,c,php,javascript)](https://skillicons.dev)
+[![My Langages](https://skillicons.dev/icons?i=bash,c,cpp,php,javascript)](https://skillicons.dev)
 
 ### Backend
 
@@ -23,7 +23,7 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 ### Tools/Others
 
