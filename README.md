@@ -11,23 +11,23 @@ My Curriculum :
 
 More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
-## Skills
+## Preferred Stack
 
 ### Langages
 
-[![My Langages](https://skillicons.dev/icons?i=bash,c,cpp,php,javascript)](https://skillicons.dev)
+[![My Langages](https://skillicons.dev/icons?i=php,javascript,typescript)](https://skillicons.dev)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=symfony,mysql,docker)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=symfony,mysql,nodejs,express)](https://skillicons.dev)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,tailwind,bootstrap,html,css)](https://skillicons.dev)
 
-### Tools/Others
+### Tools & DevOps
 
-[![Tools](https://skillicons.dev/icons?i=vim,git,github,githubactions)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions)](https://skillicons.dev)
 
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
