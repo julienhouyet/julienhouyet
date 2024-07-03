@@ -1,13 +1,17 @@
 ## 🥷🏻 I’m Julien Houyet, Full-Stack Developer.
 
-Young web enthusiast, I started learning HTML/CSS/PHP at the age of 11. It was only natural for me to turn it into my profession later on. I began working as a student in the field in 2010 and have made it my main occupation since 2012. Being self-taught, I enjoy constantly educating myself on new web technologies. 
+Young web enthusiast, I started learning HTML, CSS, and PHP at the age of 11. It was only natural for me to turn it into my profession later on. I began working as a student in the field in 2010 and have made it my main occupation since 2012. Being self-taught, I enjoy constantly educating myself on new web technologies.
 
-My Curriculum :
+## My Curriculum :
 
-- 💻 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, JavaScript, Python, Ruby, ...
+- 💊 2024/Current - Co-Founder & CTO @ MJ Pharma
 - 🦁 2019/2023 - Co-Founder & CTO @ Catlion SRL
 - 🐺 2018/2022 - Founder & CTO @ Wolf's App SCRL
 - 🏢 2010/2018 - Full-Stack Developer & Project Manager @ JNS Concept SPRL
+
+## Education :
+
+- 💻 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, JavaScript, Python, Ruby, ...
 
 More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
