@@ -13,8 +13,6 @@ Young web enthusiast, I started learning HTML, CSS, and PHP at the age of 11. It
 
 - 💻 I'm currently studying at 19 in Brussels (42 network) to learn C, C++, JavaScript, Python, Ruby, ...
 
-More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
-
 ## Preferred Stack
 
 ### Langages
@@ -32,6 +30,8 @@ More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 ### Tools & DevOps
 
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions)](https://skillicons.dev)
+
+More info & Portfolio : [julienhouyet.be](https://julienhouyet.be/)
 
 <!--
 **julienhouyet/julienhouyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
