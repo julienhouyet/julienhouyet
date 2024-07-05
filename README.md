@@ -24,7 +24,7 @@ Young web enthusiast, I started learning HTML, CSS, and PHP at the age of 11. It
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=angular,tailwind,bootstrap,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,tailwind)](https://skillicons.dev)
 
 ### Tools & DevOps
 
