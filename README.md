@@ -20,7 +20,7 @@ Young web enthusiast, I started learning HTML, CSS, and PHP at the age of 11. It
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=symfony,mysql,nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=symfony,mysql)](https://skillicons.dev)
 
 ### Frontend
 
