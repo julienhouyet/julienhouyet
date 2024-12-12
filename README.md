@@ -4,7 +4,7 @@ Young web enthusiast, I started learning HTML, CSS, and PHP at the age of 11. It
 
 ## Professional Experience
 
-- 💊 2024/.... - Co-Founder & CTO @ MJ Solutions SRL
+- 💊 Since 2024 - Co-Founder & CTO @ MJ Solutions SRL
 - 🦁 2019/2023 - Co-Founder & CTO @ Catlion SRL
 - 🐺 2018/2022 - Founder & CTO @ Wolf's App SCRL
 - 🏢 2010/2018 - Full-Stack Developer & Project Manager @ JNS Concept SPRL
