@@ -15,9 +15,9 @@ I enjoy building clear, maintainable and useful applications — not just writin
 
 ## 💼 Professional Experience
 
-- 💼 **Since 2025** — Founder & Full-Stack Developer @ teradev  
+- 💼 **Since 2025** — Founder & Full-Stack Developer @ [teradev](https://teradev.be)
 - 🥃 **Since 2025** — Frontend Developer @ Barlist  
-- 💊 **Since 2024** — Full-Stack Developer @ MJ Pharma Solutions  
+- 💊 **Since 2024** — Full-Stack Developer @ [MJ Pharma Solutions](https://mjpharma.net)  
 - 🦁 **2019 – 2021** — Co-Founder @ Catlion  
 - 🐺 **2018 – 2022** — Founder @ Wolf's App  
 - 🏢 **2010 – 2018** — WordPress / PHP Developer @ JNS Concept  
